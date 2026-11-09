@@ -1,2 +1,1 @@
-# My-app
-Juego para Android
+FrutiApp
